@@ -72,7 +72,8 @@ class _MyHomePageState extends State<MyHomePage> {
           ],
         ),
       ),
-      body: const MyPageView(),
+      body: const MyGridView(),
+      //MyPageView
       //const MySlider(),
       //MyStackPositioned(),
       //MyStepper(),
